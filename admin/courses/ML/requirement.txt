@@ -1,0 +1,7 @@
+opencv-contrib-python==4.1.1.26
+opencv-python==4.5.5.64
+Keras==2.2.4
+tensorflow==1.13.1
+numpy==1.19.5
+psutil==5.4.5
+mysql-connector==2.2.9
